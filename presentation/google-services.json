@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "775071161712",
+    "firebase_url": "https://dcm-2020.firebaseio.com",
+    "project_id": "dcm-2020",
+    "storage_bucket": "dcm-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:775071161712:android:8cf34cf6eed5bde50e43b5",
+        "android_client_info": {
+          "package_name": "kr.hs.dgsw.juyeop.dcm_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "775071161712-q36mospbn9ke4s4o404p9d3csolbda14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.dgsw.juyeop.dcm_android",
+            "certificate_hash": "a51e0a6f2d5158802d27da2ae8d9716bee557edc"
+          }
+        },
+        {
+          "client_id": "775071161712-6fjkfdv97rojsghgo8hn1cu07crvo46o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp96oIFZHbMYWEqYoPOYYKByVOt5qeL5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "775071161712-6fjkfdv97rojsghgo8hn1cu07crvo46o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
