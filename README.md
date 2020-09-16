@@ -39,3 +39,7 @@
 
 ## Design Pattern
 - MVVM 디자인 패턴을 활용하여 구현했습니다.
+- CleanArchitecture 구조에 맞게 코드를 구현했습니다.
+
+## Blog
+- 네이버 블로그 <a href ="https://kjy13299.blog.me/222087168438" target ="_blank" title ="Dcm 물품 기자재 관리 서비스 설명보기">물품 기자재 관리 서비스 설명보기</a>
