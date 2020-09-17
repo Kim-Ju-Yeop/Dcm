@@ -41,5 +41,26 @@
 - MVVM 디자인 패턴을 활용하여 구현했습니다.
 - CleanArchitecture 구조에 맞게 코드를 구현했습니다.
 
+## UI/UX
+#### 교사용 (Android 플랫폼)
+<div>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410012-2291f480-f8d3-11ea-8b31-9486ca6fe8a0.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410015-26be1200-f8d3-11ea-9b75-02684ab495e7.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410019-29206c00-f8d3-11ea-8198-e961ffaa0d28.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410021-2aea2f80-f8d3-11ea-8be9-d90639bcedf3.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410028-2c1b5c80-f8d3-11ea-9bbe-4373a5db8a04.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410033-2d4c8980-f8d3-11ea-98ec-071455c1dfcc.jpeg"></img>
+</div>
+
+#### 학생용 (Ios 플랫폼)
+<div>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410012-2291f480-f8d3-11ea-8b31-9486ca6fe8a0.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410470-ff1b7980-f8d3-11ea-9735-176cd8ae3212.PNG"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410484-05115a80-f8d4-11ea-9f56-3c4ad727ae9a.PNG"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410486-06db1e00-f8d4-11ea-9598-786f396b9477.PNG"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410497-093d7800-f8d4-11ea-9ad0-b920d1d25e0c.PNG"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410500-09d60e80-f8d4-11ea-8d7d-fac7a207b2eb.PNG"></img>
+</div>
+
 ## Blog
 - 네이버 블로그 <a href ="https://kjy13299.blog.me/222087168438" target ="_blank" title ="Dcm 물품 기자재 관리 서비스 설명보기">물품 기자재 관리 서비스 설명보기</a>
