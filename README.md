@@ -54,7 +54,7 @@
 
 #### 학생용 (Ios 플랫폼)
 <div>
-<img width="130" src="https://user-images.githubusercontent.com/49600974/93410012-2291f480-f8d3-11ea-8b31-9486ca6fe8a0.jpeg"></img>
+<img width="130" src="https://user-images.githubusercontent.com/49600974/93410676-60434d00-f8d4-11ea-8465-9c7fa27cba1d.PNG"></img>
 <img width="130" src="https://user-images.githubusercontent.com/49600974/93410470-ff1b7980-f8d3-11ea-9735-176cd8ae3212.PNG"></img>
 <img width="130" src="https://user-images.githubusercontent.com/49600974/93410484-05115a80-f8d4-11ea-9f56-3c4ad727ae9a.PNG"></img>
 <img width="130" src="https://user-images.githubusercontent.com/49600974/93410486-06db1e00-f8d4-11ea-9598-786f396b9477.PNG"></img>
