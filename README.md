@@ -34,7 +34,7 @@
 - <a href="https://github.com/InsertKoinIO/koin">Koin</a>
 - <a href="https://github.com/bumptech/glide">Glide</a>
 - <a href="https://github.com/firebase/">Firebase</a>
-- <a href="https://github.com/CameraKit/camerakit-androidr">CameraKit</a>
+- <a href="https://github.com/CameraKit/camerakit-android">CameraKit</a>
 - <a href="https://developer.android.com/jetpack/androidx/releases/lifecycle?hl=ko">ViewModel</a>
 
 ## Design Pattern
