@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/49600974/104805949-213bee80-5817-11eb-8c0a-2e8747695488.png"></img>
+
 # Dcm
 🗂 대구소프트웨어고등학교에 존재하는 물품 기자재들을 손 쉽게 관리하고 대여할 수 있도록 도와주는 서비스입니다.
 
